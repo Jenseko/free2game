@@ -4,11 +4,11 @@
   
 "free2game" is a collection of the best free online games, with which it is possible to sort games according to different categories.
 
-## 🚀 Demo on Netlify
+## Demo
 
 https://free2game-superdupercode.netlify.app/)](https://free2game-superdupercode.netlify.app/
 
-## 🧐 Features
+## Features
 
 *   Navigation
 *   Filteroptions with Checkboxes
@@ -16,19 +16,19 @@ https://free2game-superdupercode.netlify.app/)](https://free2game-superdupercode
 *   Detailspage
 
   
-## 💻 Built with
+## Built with
 
 *   HTML
 *   SCSS
 *   REACT
 *   FIGMA
 
-## 👥 Authors
+## Authors
 
-- <a href="https://github.com/TheAyes" target="_blank">TheAyes</a>
-- <a href="https://github.com/Jenseko" target="_blank">Jenseko</a>
-- <a href="https://github.com/codesfromannywhere" target="_blank">codesfromannywhere</a>
-- <a href="https://github.com/Maartala" target="_blank">Maartala</a>
+- <a href="https://github.com/TheAyes">TheAyes</a>
+- <a href="https://github.com/Jenseko">Jenseko</a>
+- <a href="https://github.com/codesfromannywhere">codesfromannywhere</a>
+- <a href="https://github.com/Maartala">Maartala</a>
 
 
 📷 Project Screenshots:
